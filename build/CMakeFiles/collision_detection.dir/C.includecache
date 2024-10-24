@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/cps_collision_detection.h
+
+/home/lpo/CPSproj/RS_collision_detection/src/cps_collision_detection.c
+cps_collision_detection.h
+/home/lpo/CPSproj/RS_collision_detection/src/cps_collision_detection.h
+stdio.h
+-
+

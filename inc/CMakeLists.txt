@@ -1,0 +1,1 @@
+target_include_directories(collision_detection PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
